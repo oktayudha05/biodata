@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-    <div className="h-screen text-center align-center justify-center grid grid-row-2">
+    <div className="h-screen -mt-16 text-center align-center justify-center grid grid-row-2">
       <div>
       </div>
       <div className="">
